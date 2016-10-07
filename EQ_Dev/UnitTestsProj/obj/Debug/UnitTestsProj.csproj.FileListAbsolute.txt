@@ -1,0 +1,14 @@
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\UnitTestsProj\bin\Debug\UnitTestsProj.dll
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\UnitTestsProj\bin\Debug\UnitTestsProj.pdb
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\UnitTestsProj\bin\Debug\EQDevApplication.exe
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\UnitTestsProj\bin\Debug\EQDevApplication.pdb
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\UnitTestsProj\obj\Debug\UnitTestsProj.csprojResolveAssemblyReference.cache
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\UnitTestsProj\obj\Debug\UnitTestsProj.dll
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\UnitTestsProj\obj\Debug\UnitTestsProj.pdb
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\UnitTestsProj\bin\Debug\UnitTestsProj.dll
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\UnitTestsProj\bin\Debug\UnitTestsProj.pdb
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\UnitTestsProj\bin\Debug\EQDevApplication.exe
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\UnitTestsProj\bin\Debug\EQDevApplication.pdb
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\UnitTestsProj\obj\Debug\UnitTestsProj.csprojResolveAssemblyReference.cache
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\UnitTestsProj\obj\Debug\UnitTestsProj.dll
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\UnitTestsProj\obj\Debug\UnitTestsProj.pdb

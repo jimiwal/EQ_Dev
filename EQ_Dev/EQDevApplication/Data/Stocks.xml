@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<stocks>
+  <stock type="Equity"       price="220"    quantity="20" />
+  <stock type="Equity"       price="150"    quantity="10" />
+  <stock type="Equity"       price="320"    quantity="15" />
+  <stock type="Equity"       price="110"    quantity="25" />
+  <stock type="Bond"         price="745"    quantity="6" />
+  <stock type="Bond"         price="650"    quantity="4" />
+  <stock type="Bond"         price="820"    quantity="10" />
+  <stock type="Bond"         price="920"    quantity="2" />
+</stocks>

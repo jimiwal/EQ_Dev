@@ -1,0 +1,86 @@
+c:\users\gawlorob\documents\visual studio 2012\Projects\EQ_Dev\EQDevApplication\bin\Debug\EQDevApplication.exe
+c:\users\gawlorob\documents\visual studio 2012\Projects\EQ_Dev\EQDevApplication\bin\Debug\EQDevApplication.exe.config
+c:\users\gawlorob\documents\visual studio 2012\Projects\EQ_Dev\EQDevApplication\obj\Debug\View\AllStockView.baml
+c:\users\gawlorob\documents\visual studio 2012\Projects\EQ_Dev\EQDevApplication\obj\Debug\App.baml
+c:\users\gawlorob\documents\visual studio 2012\Projects\EQ_Dev\EQDevApplication\obj\Debug\MainWindow.g.cs
+c:\users\gawlorob\documents\visual studio 2012\Projects\EQ_Dev\EQDevApplication\obj\Debug\View\AllStockView.g.cs
+c:\users\gawlorob\documents\visual studio 2012\Projects\EQ_Dev\EQDevApplication\obj\Debug\View\StockView.g.cs
+c:\users\gawlorob\documents\visual studio 2012\Projects\EQ_Dev\EQDevApplication\obj\Debug\App.g.cs
+c:\users\gawlorob\documents\visual studio 2012\Projects\EQ_Dev\EQDevApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\gawlorob\documents\visual studio 2012\Projects\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication_MarkupCompile.cache
+c:\users\gawlorob\documents\visual studio 2012\Projects\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication_MarkupCompile.lref
+c:\users\gawlorob\documents\visual studio 2012\Projects\EQ_Dev\EQDevApplication\obj\Debug\MainWindow.baml
+c:\users\gawlorob\documents\visual studio 2012\Projects\EQ_Dev\EQDevApplication\obj\Debug\MainWindowResources.baml
+c:\users\gawlorob\documents\visual studio 2012\Projects\EQ_Dev\EQDevApplication\obj\Debug\View\StockView.baml
+c:\users\gawlorob\documents\visual studio 2012\Projects\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.g.resources
+c:\users\gawlorob\documents\visual studio 2012\Projects\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.Properties.Resources.resources
+c:\users\gawlorob\documents\visual studio 2012\Projects\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.Strings.resources
+c:\users\gawlorob\documents\visual studio 2012\Projects\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.csproj.GenerateResource.Cache
+c:\users\gawlorob\documents\visual studio 2012\Projects\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.exe
+c:\users\gawlorob\documents\visual studio 2012\Projects\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.pdb
+C:\Users\gawlorob\Documents\Visual Studio 2012\Projects\EQ_Dev\EQDevApplication\bin\Debug\EQDevApplication.pdb
+C:\Users\gawlorob\Documents\Visual Studio 2012\Projects\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.csprojResolveAssemblyReference.cache
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\bin\Debug\EQDevApplication.exe.config
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.exe
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.pdb
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\bin\Debug\EQDevApplication.exe
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\bin\Debug\EQDevApplication.pdb
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\View\AllStockView.baml
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\App.baml
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\MainWindow.g.cs
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\View\AllStockView.g.cs
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\View\StockView.g.cs
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\App.g.cs
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication_MarkupCompile.cache
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication_MarkupCompile.lref
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\MainWindow.baml
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\MainWindowResources.baml
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\View\StockView.baml
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.g.resources
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.Properties.Resources.resources
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.Strings.resources
+C:\Users\jimi\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.csproj.GenerateResource.Cache
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\bin\Debug\EQDevApplication.exe.config
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.exe
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.pdb
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\View\AllStockView.baml
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\App.baml
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\MainWindow.g.cs
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\View\AllStockView.g.cs
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\View\StockView.g.cs
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\App.g.cs
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication_MarkupCompile.cache
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication_MarkupCompile.lref
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\bin\Debug\EQDevApplication.exe
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\bin\Debug\EQDevApplication.pdb
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\MainWindow.baml
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\MainWindowResources.baml
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\View\StockView.baml
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.g.resources
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.Properties.Resources.resources
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.Strings.resources
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.csproj.GenerateResource.Cache
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.csprojResolveAssemblyReference.cache
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\bin\Debug\EQDevApplication.exe.config
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\bin\Debug\EQDevApplication.exe
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\bin\Debug\EQDevApplication.pdb
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\App.baml
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\MainWindow.g.cs
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\View\AllStockView.g.cs
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\View\StockView.g.cs
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\App.g.cs
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication_MarkupCompile.cache
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication_MarkupCompile.lref
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\MainWindow.baml
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\MainWindowResources.baml
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\View\AllStockView.baml
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\View\StockView.baml
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.g.resources
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.Properties.Resources.resources
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.Strings.resources
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.csproj.GenerateResource.Cache
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.exe
+C:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\EQDevApplication\obj\Debug\EQDevApplication.pdb

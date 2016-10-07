@@ -1,0 +1,209 @@
+ÜèRÄè
+ÀR∆
+9R53EQDevApplication.RelayCommand..ctor(Action{Object})
+KRGEEQDevApplication.RelayCommand..ctor(Action{Object},Predicate{Object})
+6R20EQDevApplication.RelayCommand.CanExecute(Object)
+3R/-EQDevApplication.RelayCommand.Execute(Object)Oc:\users\gawlorob\desktop\eq_dev\eq_dev\eq_dev\eqdevapplication\relaycommand.cs
+«R¬
+IRECEQDevApplication.ViewModel.AllStockViewModel..ctor(StockRepository)
+F	RB>EQDevApplication.ViewModel.AllStockViewModel.CreateAllStocks()(
+@
+R<8EQDevApplication.ViewModel.AllStockViewModel.OnDispose()(
+qRmiEQDevApplication.ViewModel.AllStockViewModel.OnCollectionChanged(Object,NotifyCollectionChangedEventArgs)(
+sRomEQDevApplication.ViewModel.AllStockViewModel.OnStockViewModelPropertyChanged(Object,PropertyChangedEventArgs)
+gRcaEQDevApplication.ViewModel.AllStockViewModel.OnStockAddedToRepository(Object,StockAddedEventArgs)
+BR><EQDevApplication.ViewModel.AllStockViewModel.get_AllStocks()
+VRRPEQDevApplication.ViewModel.AllStockViewModel.set_AllStocks(ObservableCollection)
+KRGEEQDevApplication.ViewModel.AllStockViewModel.get_TotalSelectedPrice()
+QRMIEQDevApplication.ViewModel.AllStockViewModel.get_TotalMarketValueOfFund()(^c:\users\gawlorob\desktop\eq_dev\eq_dev\eq_dev\eqdevapplication\viewmodel\allstockviewmodel.cs
+XRTRc:\users\gawlorob\desktop\eq_dev\eq_dev\eq_dev\eqdevapplication\obj\debug\app.g.cs
+ZRVTc:\users\gawlorob\desktop\eq_dev\eq_dev\eq_dev\eqdevapplication\obj\debug\app.g.i.cs
+_R[Yc:\users\gawlorob\desktop\eq_dev\eq_dev\eq_dev\eqdevapplication\obj\debug\mainwindow.g.cs
+aR][c:\users\gawlorob\desktop\eq_dev\eq_dev\eq_dev\eqdevapplication\obj\debug\mainwindow.g.i.cs
+RRNLc:\users\gawlorob\desktop\eq_dev\eq_dev\unittests\properties\assemblyinfo.cs
+XRTRc:\users\gawlorob\desktop\eq_dev\eq_dev\unittests\properties\resources.designer.cs
+WRSQc:\users\gawlorob\desktop\eq_dev\eq_dev\unittests\properties\settings.designer.cs
+CR?=c:\users\gawlorob\desktop\eq_dev\eq_dev\unittests\app.xaml.cs
+JRFDc:\users\gawlorob\desktop\eq_dev\eq_dev\unittests\mainwindow.xaml.cs
+LRHFc:\users\gawlorob\desktop\eq_dev\eq_dev\unittests\obj\debug\app.g.i.cs
+SROMc:\users\gawlorob\desktop\eq_dev\eq_dev\unittests\obj\debug\mainwindow.g.i.cs
+‡	R€	
+.R*(UnitTestsProject.UnitTest1.TestMethod1()
+7R31UnitTestsProject.ViewModelBaseTests.TestMethod1()
+1 R-+UnitTestsProject.ViewModelBaseTests..ctor()
+P!RLJUnitTestsProject.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()
+V"RRPUnitTestsProject.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()
+;#R75UnitTestsProject.ViewModelBaseTests.get_TestContext()
+F$RB@UnitTestsProject.ViewModelBaseTests.set_TestContext(TestContext)
+E%RA?UnitTestsProject.TestViewModel.get_ThrowOnInvalidPropertyName()
+7&R31UnitTestsProject.TestViewModel.get_GoodProperty()
+='R97UnitTestsProject.TestViewModel.set_GoodProperty(String)
+6(R20UnitTestsProject.TestViewModel.get_BadProperty()
+<)R86UnitTestsProject.TestViewModel.set_BadProperty(String)
+X*RTRUnitTestsProject.ViewModelBaseTests.TestViewModel.get_ThrowOnInvalidPropertyName()
+J+RFDUnitTestsProject.ViewModelBaseTests.TestViewModel.get_GoodProperty()
+P,RLJUnitTestsProject.ViewModelBaseTests.TestViewModel.set_GoodProperty(String)
+I-RECUnitTestsProject.ViewModelBaseTests.TestViewModel.get_BadProperty()
+O.RKIUnitTestsProject.ViewModelBaseTests.TestViewModel.set_BadProperty(String)Ec:\users\gawlorob\desktop\eq_dev\eq_dev\unittestsproject\unittest1.cs
+Y/RUSc:\users\gawlorob\desktop\eq_dev\eq_dev\unittestsproject\properties\assemblyinfo.cs
+Œ0R…
+91R51UnitTestsProject.ViewModelBaseTests.TestMethod1()(
+G2RC?UnitTestsProject.TestViewModel.get_ThrowOnInvalidPropertyName()(
+93R51UnitTestsProject.TestViewModel.get_GoodProperty()(
+?4R;7UnitTestsProject.TestViewModel.set_GoodProperty(String)(
+85R40UnitTestsProject.TestViewModel.get_BadProperty()(
+>6R:6UnitTestsProject.TestViewModel.set_BadProperty(String)(
+ë7RåJUnitTestsProject.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()2&	&2''2((2))2)6)2**2++2,	,
+h8RdJUnitTestsProject.ViewModelBaseTests.TestViewModel.set_GoodProperty(String)2LL2MM2NN
+I9RE+UnitTestsProject.ViewModelBaseTests..ctor()2	2	2	
+í:RçÇUnitTestsProject.ViewModelBaseTests.<>c__DisplayClass1.<TestPropertyChangedIsRaisedCorrectly>b__0(Object,PropertyChangedEventArgs)2)6)
+ß;R¢PUnitTestsProject.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()20	02112332442662882992::2>>2?	?
+p<RlRUnitTestsProject.ViewModelBaseTests.TestViewModel.get_ThrowOnInvalidPropertyName()2EE2EE2E$E
+g=RcIUnitTestsProject.ViewModelBaseTests.TestViewModel.set_BadProperty(String)2UU2VV2WW
+;>R75UnitTestsProject.ViewModelBaseTests.get_TestContext()
+F?RB@UnitTestsProject.ViewModelBaseTests.set_TestContext(TestContext)
+J@RFDUnitTestsProject.ViewModelBaseTests.TestViewModel.get_GoodProperty()
+IARECUnitTestsProject.ViewModelBaseTests.TestViewModel.get_BadProperty()Nc:\users\gawlorob\desktop\eq_dev\eq_dev\unittestsproject\viewmodelbasetests.cs
+àBRÉ
+öCRï0EQDevApplication.ViewModel.ViewModelBase..ctor()2û	"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2û	"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2û	"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()
+…DRƒCEQDevApplication.ViewModel.ViewModelBase.VerifyPropertyName(String)2û/	/"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2û22"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2U33"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2U44"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2U66"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2U77"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2992::2O;	;"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()
+¬ERΩBEQDevApplication.ViewModel.ViewModelBase.OnPropertyChanged(String)2ûS	S"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2ûTT"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2OVV"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()2OWW"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()2OXX"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()2OYY"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()2OZZ"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()2O[["GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()2O\	\"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()Sc:\users\gawlorob\desktop\eq_dev\eq_dev\eqdevapplication\viewmodel\viewmodelbase.cs
+Ò	FRÏ	
+OGRK1UnitTestsProject.MainWindowViewModelTests..ctor()2	2	2	
+HHRD@UnitTestsProject.MainWindowViewModelTests.TestViewAllCustomers()(
+IIREAUnitTestsProject.MainWindowViewModelTests.TestCreateNewCustomer()(
+SJROKUnitTestsProject.MainWindowViewModelTests.TestCannotViewAllCustomersTwice()(
+RKRNJUnitTestsProject.MainWindowViewModelTests.TestCloseAllCustomersWorkspace()(
+CLR?;UnitTestsProject.MainWindowViewModelTests.get_TestContext()(
+NMRJFUnitTestsProject.MainWindowViewModelTests.set_TestContext(TestContext)(
+îNRè=UnitTestsProject.MainWindowViewModelTests.TestViewAllStocks()2,	,2--2..2//20020G021123324425	5
+ÖORÄ>UnitTestsProject.MainWindowViewModelTests.TestCreateNewStock()24	425526626G62772992::2;	;
+üPRöHUnitTestsProject.MainWindowViewModelTests.TestCannotViewAllStocksTwice()2?	?2@@2AA2AGA2CC2DD2FF2GG2HH2I	I
+ÆQR©GUnitTestsProject.MainWindowViewModelTests.TestCloseAllStocksWorkspace()2M	M2PO2RR2VU2V.V2YY2ZZ2]]2^^2aa2bb2c	cTc:\users\gawlorob\desktop\eq_dev\eq_dev\unittestsproject\mainwindowviewmodeltests.cs
+KRRGEc:\users\gawlorob\desktop\eq_dev\eq_dev\unittestsproject\constants.cs
+QSRMKc:\users\gawlorob\desktop\eq_dev\eq_dev\eqdevapplication\obj\debug\app.g.cs
+ßTR¢
+\URX>EQDevApplication.Strings.get_MainWindowViewModel_DisplayName()2gg2hh2ii
+tVRp.EQDevApplication.Strings.get_ResourceManager()2((2))2)@)2**2++2,,2--2..Lc:\users\gawlorob\desktop\eq_dev\eq_dev\eqdevapplication\strings.designer.cs
+iWRecc:\users\gawlorob\desktop\eq_dev\eq_dev\eqdevapplication\obj\debug\generatedinternaltypehelper.g.cs
+∏XR≥
+IYRECEQDevApplication.ViewModel.AllStockViewModel..ctor(StockRepository)
+DZR@>EQDevApplication.ViewModel.AllStockViewModel.CreateAllStocks()
+>[R:8EQDevApplication.ViewModel.AllStockViewModel.OnDispose()
+o\RkiEQDevApplication.ViewModel.AllStockViewModel.OnCollectionChanged(Object,NotifyCollectionChangedEventArgs)
+s]RomEQDevApplication.ViewModel.AllStockViewModel.OnStockViewModelPropertyChanged(Object,PropertyChangedEventArgs)
+g^RcaEQDevApplication.ViewModel.AllStockViewModel.OnStockAddedToRepository(Object,StockAddedEventArgs)
+B_R><EQDevApplication.ViewModel.AllStockViewModel.get_AllStocks()
+V`RRPEQDevApplication.ViewModel.AllStockViewModel.set_AllStocks(ObservableCollection)
+KaRGEEQDevApplication.ViewModel.AllStockViewModel.get_TotalSelectedPrice()
+ObRKIEQDevApplication.ViewModel.AllStockViewModel.get_TotalMarketValueOfFund()Wc:\users\gawlorob\desktop\eq_dev\eq_dev\eqdevapplication\viewmodel\allstockviewmodel.cs
+ÑcRˇ
+ÉdREEQDevApplication.DataAccess.StockRepository.GetResourceStream(String)2i	i2jj2ll2mm2nn2pp2q	q
+teRp>EQDevApplication.DataAccess.StockRepository.LoadStocks(String)2Z	Z2]]2^^2e_2ea2f	f
+_fR[9EQDevApplication.DataAccess.StockRepository..ctor(String)2 	 2!	!2""2#	#
+AgR=;EQDevApplication.DataAccess.StockRepository.AddStock(Stock)
+FhRB@EQDevApplication.DataAccess.StockRepository.ContainsStock(Stock)
+=iR97EQDevApplication.DataAccess.StockRepository.GetStocks()Vc:\users\gawlorob\desktop\eq_dev\eq_dev\eqdevapplication\dataaccess\stockrepository.cs
+‹jR◊
+jkRf<EQDevApplication.ViewModel.MainWindowViewModel..ctor(String)2	2 	 2!!2##2$	$
+ElRA?EQDevApplication.ViewModel.MainWindowViewModel.CreateCommands()
+qmRmkEQDevApplication.ViewModel.MainWindowViewModel.OnWorkspacesChanged(Object,NotifyCollectionChangedEventArgs)
+^nRZXEQDevApplication.ViewModel.MainWindowViewModel.OnWorkspaceRequestClose(Object,EventArgs)
+EoRA?EQDevApplication.ViewModel.MainWindowViewModel.CreateNewStock()
+DpR@>EQDevApplication.ViewModel.MainWindowViewModel.ShowAllStocks()
+[qRWUEQDevApplication.ViewModel.MainWindowViewModel.SetActiveWorkspace(WorkspaceViewModel)
+CrR?=EQDevApplication.ViewModel.MainWindowViewModel.get_Commands()
+EsRA?EQDevApplication.ViewModel.MainWindowViewModel.get_Workspaces()Yc:\users\gawlorob\desktop\eq_dev\eq_dev\eqdevapplication\viewmodel\mainwindowviewmodel.cs
+¥tRØ
+SuRO5EQDevApplication.ViewModel.WorkspaceViewModel..ctor()2	2	2	Xc:\users\gawlorob\desktop\eq_dev\eq_dev\eqdevapplication\viewmodel\workspaceviewmodel.cs
+®vR£
+#wREQDevApplication.App..cctor()
+6xR20EQDevApplication.App.OnStartup(StartupEventArgs)Dc:\users\gawlorob\desktop\eq_dev\eq_dev\eqdevapplication\app.xaml.cs
+YyRUSc:\users\gawlorob\desktop\eq_dev\eq_dev\eqdevapplication\properties\assemblyinfo.cs
+SzROMc:\users\gawlorob\desktop\eq_dev\eq_dev\eqdevapplication\obj\debug\app.g.i.cs
+m{Ri
+(|R$ UnitTest.UnitTest1.TestMethod1()(=c:\users\gawlorob\desktop\eq_dev\eq_dev\unittest\unittest1.cs
+Q}RMKc:\users\gawlorob\desktop\eq_dev\eq_dev\unittest\properties\assemblyinfo.cs
+u~Rq
++R'%UnitTestsProj.UnitTest1.TestMethod1()Bc:\users\gawlorob\desktop\eq_dev\eq_dev\unittestsproj\unittest1.cs
+WÄRRPc:\users\gawlorob\desktop\eq_dev\eq_dev\unittestsproj\properties\assemblyinfo.cs
+IÅRDBc:\users\gawlorob\desktop\eq_dev\eq_dev\unittestsproj\constants.cs
+wÇRr
+,ÉR'%UnitTestsProj.UnitTest2.TestMethod1()Bc:\users\gawlorob\desktop\eq_dev\eq_dev\unittestsproj\unittest2.cs
+∫ÑR¥
+ïÖRè(UnitTestsProj.ViewModelBaseTests..ctor()(2û	"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2û	"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2û	"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()
+5ÜR0.UnitTestsProj.ViewModelBaseTests.TestMethod1()
+;áR62UnitTestsProj.ViewModelBaseTests.get_TestContext()(
+FàRA=UnitTestsProj.ViewModelBaseTests.set_TestContext(TestContext)(
+◊âR—GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()2O(	("GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()2O))"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()2O**"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()2O++"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()2O+6+"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()2O,,"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()2O--"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()2O.	."GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()
+ùäRóMUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2U2	2"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2U33"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2U55"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2U66"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2882::2U;;"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2U<<"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2U@@"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2UA	A"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()
+‹ãR÷OUnitTestsProj.ViewModelBaseTests.TestViewModel.get_ThrowOnInvalidPropertyName()2UGG"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2UGG"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2UG$G"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()
+HåRCAUnitTestsProj.ViewModelBaseTests.TestViewModel.get_GoodProperty()
+¬çRºGUnitTestsProj.ViewModelBaseTests.TestViewModel.set_GoodProperty(String)2ONN"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()2OOO"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()2OPP"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()
+GéRB@UnitTestsProj.ViewModelBaseTests.TestViewModel.get_BadProperty()
+ÑèR˛FUnitTestsProj.ViewModelBaseTests.TestViewModel.set_BadProperty(String)2UWW"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2UXX"MUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName()2YY
+ÿêR“UnitTestsProj.ViewModelBaseTests.<>c__DisplayClass1.<TestPropertyChangedIsRaisedCorrectly>b__0(Object,PropertyChangedEventArgs)2O+6+"GUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly()Kc:\users\gawlorob\desktop\eq_dev\eq_dev\unittestsproj\viewmodelbasetests.cs
+ßëR°
+∞íR™.UnitTestsProj.MainWindowViewModelTests..ctor()2|	":UnitTestsProj.MainWindowViewModelTests.TestViewAllStocks()"8UnitTestsProj.MainWindowViewModelTests.CanLoadResource()2|	":UnitTestsProj.MainWindowViewModelTests.TestViewAllStocks()"8UnitTestsProj.MainWindowViewModelTests.CanLoadResource()2|	":UnitTestsProj.MainWindowViewModelTests.TestViewAllStocks()"8UnitTestsProj.MainWindowViewModelTests.CanLoadResource()
+;ìR64UnitTestsProj.MainWindowViewModelTests.TestMethod1()
+?îR:8UnitTestsProj.MainWindowViewModelTests.get_TestContext()
+JïRECUnitTestsProj.MainWindowViewModelTests.set_TestContext(TestContext)
+“ñRÃû•ööÔ¿˚È:UnitTestsProj.MainWindowViewModelTests.TestViewAllStocks()(2BE	E":UnitTestsProj.MainWindowViewModelTests.TestViewAllStocks()2BFF":UnitTestsProj.MainWindowViewModelTests.TestViewAllStocks()2BGG":UnitTestsProj.MainWindowViewModelTests.TestViewAllStocks()2HH2II2IGI2JJ2LL2MM2N	N
+BóR=;UnitTestsProj.MainWindowViewModelTests.TestCreateNewStock()
+LòRGEUnitTestsProj.MainWindowViewModelTests.TestCannotViewAllStocksTwice()
+KôRFDUnitTestsProj.MainWindowViewModelTests.TestCloseAllStocksWorkspace()
+ööRî°ıäÊé¡˚È8UnitTestsProj.MainWindowViewModelTests.CanLoadResource()(2@F	F"8UnitTestsProj.MainWindowViewModelTests.CanLoadResource()2@GG"8UnitTestsProj.MainWindowViewModelTests.CanLoadResource()2@HH"8UnitTestsProj.MainWindowViewModelTests.CanLoadResource()2I	IQc:\users\gawlorob\desktop\eq_dev\eq_dev\unittestsproj\mainwindowviewmodeltests.cs†!õRö!
+ÅúR˚
+â
+C
+E
+ê
+Ö
+ç
+D\ùRWC:\Users\gawlorob\Desktop\EQ_Dev_done\EQ_Dev\EQ_Dev\UnitTestsProj\ViewModelBaseTests.csEUnitTestsProj.ViewModelBaseTests.TestPropertyChangedIsRaisedCorrectly (B'ûR"UnitTestsProj\UnitTestsProj.csprojRûh
+äüRÑ
+è
+E
+Ö
+ä
+ã
+C
+DùKUnitTestsProj.ViewModelBaseTests.TestExceptionIsThrownOnInvalidPropertyName (BûRöh
+ø†Rπ
+ñ
+íb°R]C:\Users\gawlorob\Desktop\EQ_Dev_done\EQ_Dev\EQ_Dev\UnitTestsProj\MainWindowViewModelTests.cs8UnitTestsProj.MainWindowViewModelTests.TestViewAllStocks 2;System.IO.IOException : Cannot locate resource 'stock.xml'.:¡   at MS.Internal.AppModel.ResourcePart.GetStreamCore(FileMode mode, FileAccess access)
+   at System.IO.Packaging.PackagePart.GetStream(FileMode mode, FileAccess access)
+   at System.IO.Packaging.PackagePart.GetStream()
+   at System.Windows.Application.GetResourceStream(Uri uriResource)
+   at UnitTestsProj.MainWindowViewModelTests.TestViewAllStocks() in c:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\UnitTestsProj\MainWindowViewModelTests.cs:line 71BûR‰h
+P¢RK°9UnitTestsProj.MainWindowViewModelTests.TestCreateNewStock (Bûh
+Z£RU°CUnitTestsProj.MainWindowViewModelTests.TestCannotViewAllStocksTwice (Bûh
+Y§RT°BUnitTestsProj.MainWindowViewModelTests.TestCloseAllStocksWorkspace (Bûh
+û•Rò
+ö
+í°6UnitTestsProj.MainWindowViewModelTests.CanLoadResource 2„System.IO.IOException : Assembly.GetEntryAssembly() returns null. Set the Application.ResourceAssembly property or use the pack://application:,,,/assemblyname;component/ syntax to specify the assembly to load the resource from.:ÿ   at MS.Internal.AppModel.ResourceContainer.GetResourceManagerWrapper(Uri uri, String& partName, Boolean& isContentFile)
+   at MS.Internal.AppModel.ResourceContainer.GetPartCore(Uri uri)
+   at System.IO.Packaging.Package.GetPartHelper(Uri partUri)
+   at System.IO.Packaging.Package.GetPart(Uri partUri)
+   at System.Windows.Application.GetResourceOrContentPart(Uri uri)
+   at System.Windows.Application.GetResourceStream(Uri uriResource)
+   at UnitTestsProj.MainWindowViewModelTests.CanLoadResource() in c:\Users\gawlorob\Desktop\EQ_Dev\EQ_Dev\UnitTestsProj\MainWindowViewModelTests.cs:line 72BûRåh
+∞¶R™`ßR[C:\Users\gawlorob\Desktop\EQ_Dev_done\EQ_Dev\EQ_Dev\UnitTestsProj\AllStockViewModelTests.cs;UnitTestsProj.AllStockViewModelTests.TestTotalSelectedSales (Bûh
+O®RJß8UnitTestsProj.AllStockViewModelTests.TestNewStockIsAdded (Bûh
+g©RbßPUnitTestsProj.AllStockViewModelTests.TestNewStockIsAddedThenTotalWeightIsChanged (Bûh
+T™ROß=UnitTestsProj.AllStockViewModelTests.TestNewStock_DisplayName (Bûh
+V´RQß?UnitTestsProj.AllStockViewModelTests.TestSavedStock_DisplayName (Bûh
+¨¨R¶^≠RYC:\Users\gawlorob\Desktop\EQ_Dev_done\EQ_Dev\EQ_Dev\UnitTestsProj\StockRepositoryTests.cs9UnitTestsProj.StockRepositoryTests.TestAllStocksAreLoaded (Bûh
+UÆRP≠>UnitTestsProj.StockRepositoryTests.TestNewStockIsAddedProperly (Bûh
+XØRS≠AUnitTestsProj.StockRepositoryTests.TestAddNullStockThrowException (Bûh
+]∞RX≠FUnitTestsProj.StockRepositoryTests.TestCantAddTwoTheSameStockInstances (Bûh
+î±RéT≤ROC:\Users\gawlorob\Desktop\EQ_Dev_done\EQ_Dev\EQ_Dev\UnitTestsProj\StockTests.cs+UnitTestsProj.StockTests.TestIsValid_Equity (Bûh
+@≥R;≤)UnitTestsProj.StockTests.TestIsValid_Bond (Bûh
+M¥RH≤6UnitTestsProj.StockTests.TestIsInValid_UnspecifiedType (Bûh
+IµRD≤2UnitTestsProj.StockTests.TestIsInvalidStockIfEmpty (Bûh
+R∂RM≤;UnitTestsProj.StockTests.TestIsInvalidStockIfPriceNotExists (Bûh
+U∑RP≤>UnitTestsProj.StockTests.TestIsInvalidStockIfQuantityNotExists (Bûh
+°∏Rõ]πRXC:\Users\gawlorob\Desktop\EQ_Dev_done\EQ_Dev\EQ_Dev\UnitTestsProj\StockViewModelTests.cs/UnitTestsProj.StockViewModelTests.TestStockType (Bûh
+M∫RHπ6UnitTestsProj.StockViewModelTests.TestStockMarketValue (Bûh
+XªRSπAUnitTestsProj.StockViewModelTests.TestStockTransactionCost_Equity (Bûh
+VºRQπ?UnitTestsProj.StockViewModelTests.TestStockTransactionCost_Bond (Bûh

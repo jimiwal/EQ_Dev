@@ -1,0 +1,107 @@
+﻿<UserControl x:Class="EQDevApplication.View.StockView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:vw="clr-namespace:EQDevApplication.View"
+             HorizontalAlignment="Center"
+             VerticalAlignment="Center"  
+             Width="400">
+    
+    <Grid Margin="4">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="6" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Grid.Resources>
+            <DataTemplate DataType="{x:Type ValidationError}">
+                <TextBlock 
+                  FontStyle="Italic"
+                  Foreground="Red"
+                  HorizontalAlignment="Right"
+                  Margin="0,1"
+                  Text="{Binding Path=ErrorContent}" 
+                  />
+            </DataTemplate>
+        </Grid.Resources>
+
+        <!-- Stock TYPE -->
+        <Label 
+          Grid.Row="0" Grid.Column="0" 
+          Content="Stock _type:" 
+          HorizontalAlignment="Right"
+          Target="{Binding ElementName=stockTypeCmb}" 
+          />
+        <ComboBox 
+          x:Name="stockTypeCmb"
+          Grid.Row="0" Grid.Column="2" 
+          ItemsSource="{Binding Path=StockTypeOptions, Mode=OneTime}"
+          SelectedItem="{Binding Path=StockType, ValidatesOnDataErrors=True}"
+          Validation.ErrorTemplate="{x:Null}"
+          />
+        <ContentPresenter 
+          Grid.Row="1" Grid.Column="2"
+          Content="{Binding ElementName=stockTypeCmb, Path=(Validation.Errors).CurrentItem}"
+          />
+
+        <!-- Price-->
+        <Label 
+          Grid.Row="2" Grid.Column="0" 
+          Content="Price:" 
+          HorizontalAlignment="Right"
+          Target="{Binding ElementName=priceTxt}"
+          />
+        <TextBox 
+          x:Name="priceTxt"
+          Grid.Row="2" Grid.Column="2" 
+          Text="{Binding Path=Price, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged}" 
+          Validation.ErrorTemplate="{x:Null}"
+          />
+        <ContentPresenter 
+          Grid.Row="3" Grid.Column="2"
+          Content="{Binding ElementName=priceTxt, Path=(Validation.Errors).CurrentItem}"
+          />
+
+        <!-- Quantity-->
+        <Label 
+          Grid.Row="4" Grid.Column="0" 
+          Content="_Quantity:" 
+          HorizontalAlignment="Right"
+          Target="{Binding ElementName=quantityTxt}" 
+          />
+        <TextBox 
+          x:Name="quantityTxt"
+          Grid.Row="4" Grid.Column="2" 
+          Text="{Binding Path=Quantity, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged}"
+          Validation.ErrorTemplate="{x:Null}"
+          />
+        <ContentPresenter 
+          Grid.Row="5" Grid.Column="2"
+          Content="{Binding ElementName=quantityTxt, Path=(Validation.Errors).CurrentItem}"
+          />
+
+        <!-- SAVE BUTTON -->
+        <Button 
+          Grid.Row="7" Grid.Column="2"
+          Command="{Binding Path=SaveCommand}"
+          Content="_Save"
+          HorizontalAlignment="Right"
+          Margin="4,2" 
+          MinWidth="60" 
+          />
+    </Grid>
+</UserControl>
